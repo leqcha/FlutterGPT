@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392034436011",
+    "project_id": "fluttergpt-8aece",
+    "storage_bucket": "fluttergpt-8aece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392034436011:android:d0baf5008929084eb688ee",
+        "android_client_info": {
+          "package_name": "com.mycompany.fluttergpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJCny3SAVTfJENmVweAr2HPzVNWH-Y5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
